@@ -1,13 +1,13 @@
 ---
 name: Feature Request template
 about: This template is used for Feature Request purposes
-title: 'FEATURE #0'
+title: 'FEATURE REQUEST #0'
 labels: ''
 assignees: ''
 
 ---
 
-Feature #0
+Feature Request#0
 
 App: ----- 
 
