@@ -19,7 +19,7 @@ Description:
 -----
 
 Steps to Reproduce:
-1.	-----
+-----
 
 Expected Behavior:
 -----
@@ -34,8 +34,7 @@ Frequency:
 -----
 
 Additional Context:
------
-
+•	Attachment Screenshot:  -----
  
 •	Device Information:  -----
 
