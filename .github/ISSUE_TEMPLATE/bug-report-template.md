@@ -1,7 +1,7 @@
 ---
 name: Bug Report template
 about: This template is used for Bug Reporting purposes
-title: BUG
+title: 'BUG REPORT #0'
 labels: ''
 assignees: ''
 
@@ -19,7 +19,7 @@ Description:
 -----
 
 Steps to Reproduce:
------
+1.	-----
 
 Expected Behavior:
 -----
@@ -36,7 +36,6 @@ Frequency:
 Additional Context:
 -----
 
-•	Attachment Screenshot:  -----
  
 •	Device Information:  -----
 
